@@ -11,8 +11,8 @@ tabs:
 title: Spring 2026 Virtual Programming Contest
 date: '2026-04-26'
 time: '11:30 AM - 5:30 PM Pacific Time'
-status: Upcoming 
-participants: TBD
+status: Past
+participants: 409 participants
 place: Youtube Live
 image: /images/contests/virtual-contest.jpg
 description: 'TeamsCode Spring 2026 Online Programming Contest will take place on Sunday, April 26th, from 11:30 AM to 5:30 PM (Pacific Time) through a Youtube livestream! Computer science students are welcomed to join this competitive programming experience! Teams of up to 4 students will spend 3 hours solving interesting algorithmic problems. There will be two divisions: Novice and Advanced. Prizes will be given out, including placement awards, raffle prizes, and more! Only pre-college participants are eligible for prizes.'
@@ -48,13 +48,51 @@ timeline:
 cards:
   -
     - 'Participants'
-    - 'TBD'
+    - '409'
   -
     - 'Teams'
-    - 'TBD'
+    - '186'
   -
     - 'Duration'
     - '3 Hours'
   -
     - 'Divisions'
     - 'Novice/Advanced'
+winners:
+  -
+    - 'Advanced division'
+    -
+      -
+        - 'CoderBunny Fan Club'
+        - 'Sonit Sahoo, Kalyan Cherukuri, Aidan Chang, Christopher Sakaliyski'
+      -
+        - 'std::AC'
+        - 'Ethan Shen, Jerry Zhou, Jessie Zhou'
+      -
+        - 'First Place Team'
+        - 'Brian Zhao, Derek Li, Haoran Wu, Zhengyin Zhu'
+      -
+        - 'lithium'
+        - 'Daniel, Lindsey, Ellin'
+      -
+        - '1 camper 3 mangoes'
+        - 'Shiv Sitaram, Brian Law, Dennis Yang, Zanda Zhu'
+  -
+    - 'Novice division'
+    -
+      -
+        - 'publicly declaring our intentions to cheat was a calculated risk, but boy we are bad at math(we will not actually cheat)'
+        - 'Jonathan Zheng, David Fu, Ryan Shi, Ethan Chan'
+      -
+        - 'c++ismymothertongue' 
+        - 'Chong Hong Sern, Viren Aiyappa Vakakulu'
+      -
+        - '🦧🦧🦧🦧🦧'
+        - 'Danny Wang, Siddhant Arora, Jonas Huang'
+      -
+        - 'Finite Automata'
+        - 'Ted Shi, Serena Qin, Norbert Lu, Ayush Belur'
+      -
+        - 'hardstuck usaco silver'
+        - 'Lucas Zhang, Cynthia Zhang, Ethan Hao, Luke Guo'
+cf_gym: 'https://codeforces.com/gym/106507'
