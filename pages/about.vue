@@ -230,6 +230,12 @@ export default {
           title: 'Logistics Coordinator',
           image: '/images/teams/anne.webp',
           bio: 'Anne Zou is an 8th grader at The Harker School. She started coding in 6th grade and has enjoyed it ever since, and is currently in the USACO Silver division. Outside of school, she plays soccer, enjoys caring for plants, and reads.'
+        },
+        {
+          name: 'Nathan Yan',
+          title: 'Problem Writer',
+          image: '/images/teams/nathanyan.webp',
+          bio: 'Nathan is a senior at Obra D. Tompkins High School. He started doing competitive programming his freshman year and was selected as a 2026 USACO Finalist. His favorite thing is cats and he has three at home!!!'
         }
       ],
       pastLeadership: [
