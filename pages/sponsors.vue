@@ -62,6 +62,11 @@
           </h2>
 
           <v-row class="align-center justify-center my-2">
+            <a target="_blank" href="https://www.sig.com/"><v-img
+              src="/images/partners/susquehanna.webp"
+              alt="Susquehanna"
+              style="width: 200px; margin-right: 30px;"
+            /></a>
             <a target="_blank" href="https://www.interviewcake.com"><v-img
               src="/images/partners/interviewcake.png"
               alt="interview cake"

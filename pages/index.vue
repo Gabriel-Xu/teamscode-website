@@ -20,7 +20,7 @@
                 color="primary"
                 to="/contests/spring-2026"
               >
-                Spring 2026 Contest
+                Summer 2026 Contest
               </v-btn>
               <v-btn
                 x-large
