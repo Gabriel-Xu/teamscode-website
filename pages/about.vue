@@ -236,6 +236,12 @@ export default {
           title: 'Problem Writer',
           image: '/images/teams/nathanyan.webp',
           bio: 'Nathan is a senior at Obra D. Tompkins High School. He started doing competitive programming his freshman year and was selected as a 2026 USACO Finalist. His favorite thing is cats and he has three at home!!!'
+        },
+        {
+          name: 'Ethan Liang',
+          title: 'Problem Setter',
+          image: '/images/teams/ethan_liang.webp',
+          bio: 'Ethan Liang is a senior at the Harker School. He started coding in the fifth grade and currently competes in the USACO Platinum division. In his free time, he likes to play chess and read classics.'
         }
       ],
       pastLeadership: [
@@ -471,6 +477,11 @@ export default {
           title: 'Logistics Coordinator',
           image: '/images/teams/andrew.png',
           bio: 'Andrew is a sophomore at Gunn High School, a participant in the USACO Gold Division, and an AIME Qualifier. In his free time, he beats good Brawl Stars players with Darryl.'
+        },
+        {
+          name: 'Aryan Joshi',
+          title: 'Problem Setter',
+          image: '/images/teams/aaryan.webp'
         }
       ]
     }
