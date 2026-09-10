@@ -3,6 +3,7 @@ new_layout: true
 new_timeline: true
 tabs:
   - rules
+  - speakers
   - registration
   - prizes
   - example
@@ -30,12 +31,12 @@ timeline:
   -
     - '2026-08-23 15:00:00'
     - '2026-08-23 16:00:00'
-    - 'Solutions' Showcase'
+    - 'Solutions Showcase!'
     - 'For Novice Division'
   -
     - '2026-08-23 16:00:00'
     - '2026-08-23 17:00:00'
-    - 'Solutions' Showcase'
+    - 'Solutions Showcase!'
     - 'For Novice Division'
   -
     - '2026-08-23 17:00:00'
