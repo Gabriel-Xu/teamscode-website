@@ -3,10 +3,10 @@ new_layout: true
 new_timeline: true
 tabs:
   - rules
-  - speakers
   - registration
   - prizes
   - example
+  - speakers
   - sponsors
 title: Summer 2026 Virtual Programming Contest
 date: '2026-08-23'
